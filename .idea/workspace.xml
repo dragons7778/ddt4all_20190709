@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d542e4f7-153b-49e8-9bc7-3afb7620ba0f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitmodules" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DDT4ALL.BAT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crcmod/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crcmod/_crcfunpy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crcmod/crcmod.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crcmod/predefined.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crcmod/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataeditor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ddt4all.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/displaymod.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecu.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphics/checkbox.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphics/down_arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphics/handle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/autorefresh.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/bt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/command.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/donate.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/dtc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/els27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/expert.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/flowcontrol.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/hex.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/log.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/obd.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/obd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/obdlink.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/refresh.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/scan.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/usb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/wifi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/importlib/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/json/addressing.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/license.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/locale/de/LC_MESSAGES/ddt4all.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/locale/es/LC_MESSAGES/ddt4all.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/locale/fr/LC_MESSAGES/ddt4all.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/locale/hu/LC_MESSAGES/ddt4all.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/locale/it/LC_MESSAGES/ddt4all.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/locale/nl/LC_MESSAGES/ddt4all.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/locale/pl/LC_MESSAGES/ddt4all.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/locale/pt/LC_MESSAGES/ddt4all.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/locale/ru/LC_MESSAGES/ddt4all.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/locale/sr/LC_MESSAGES/ddt4all.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/options.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parameters.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qstyle.qss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/serial/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/serial/rfc2217.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/serial/rs485.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/serial/serialcli.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/serial/serialjava.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/serial/serialposix.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/serial/serialutil.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/serial/serialwin32.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/serial/threaded/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/serial/tools/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/serial/tools/hexlify_codec.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/serial/tools/list_ports.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/serial/tools/list_ports_common.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/serial/tools/list_ports_linux.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/serial/tools/list_ports_osx.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/serial/tools/list_ports_posix.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/serial/tools/list_ports_windows.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/serial/tools/miniterm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/serial/urlhandler/protocol_alt.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/serial/urlhandler/protocol_hwgrep.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/serial/urlhandler/protocol_loop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/serial/urlhandler/protocol_rfc2217.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/serial/urlhandler/protocol_socket.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/serial/urlhandler/protocol_spy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/serial/win32.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sniffer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/po2mo.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/po_create.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/po_merge.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/po_to_mo.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/pot_create.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/python_files_Linux.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/python_files_Windows.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uiutils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/usbdevice.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wininstaller.iss" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ddt4all_20190709" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/GitHubDesktop/app-2.1.0/resources/app/git/mingw64/bin/git.exe" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d542e4f7-153b-49e8-9bc7-3afb7620ba0f" name="Default Changelist" comment="" />
+      <created>1562714694622</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562714694622</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17913593" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+</project>
